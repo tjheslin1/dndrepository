@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-<article class="item">
-    <header>
-        <!--<a href="#"><img src="images/pic01.jpg" alt=""/></a>-->
-        <h3>Feugiat et faucibus</h3>
-    </header>
-    <p>{{ content }}</p>
-    <ul class="actions">
+<div id="wrapper">
+    <article class="post">
+        <header>
+            <a href="{{ site.baseurl }}{{ post.url }}/"><img src="{{ site.baseurl }}/images/root.png" alt=""/></a>
+            <h3>{{ post.title }}</h3>
+        </header>
+        {{ content }}
+        <!--<ul class="actions">-->
         <!--<li><a href="#" class="button">More</a></li>-->
-    </ul>
-</article>
+        <!--</ul>-->
+    </article>
+</div>

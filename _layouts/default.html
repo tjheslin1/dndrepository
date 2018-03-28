@@ -1,24 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 
-<!--{% include head.html %}-->
+{% include head.html %}
 
 <body>
-
-<!--{% include header.html %}-->
-
-<div class="page-content">
-    <div class="wrapper">
-        <section class="main items">
-        {{ content }}
-        </section>
-    </div>
-</div>
-
-<!--{% include footer.html %}-->
-
+    {{ content }}
 </body>
-
-<script src="{{ "/css/main.css" | prepend: site.baseurl }}"></script>
 
 </html>
