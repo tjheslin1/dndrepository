@@ -1145,16 +1145,16 @@
 					background-image: url("../images/overlay.png");
 				}
 
-            .item header img {
-                height: 100%;
-           }
+				.item header:hover a {
+					-moz-transform: scale(1.1);
+					-webkit-transform: scale(1.1);
+					-ms-transform: scale(1.1);
+					transform: scale(1.1);
+				}
 
-			.item header:hover a {
-				-moz-transform: scale(1.1);
-				-webkit-transform: scale(1.1);
-				-ms-transform: scale(1.1);
-				transform: scale(1.1);
-			}
+      .item header img {
+          height: 100%;
+     	}
 
 			.item header > * {
 				position: relative;
@@ -1288,6 +1288,10 @@
 					color: #EF6480 !important;
 				}
 
+			.post header img {
+					width: 100%;
+			}
+
 			.post header strong, .post header b {
 				color: #ffffff;
 			}
@@ -1309,12 +1313,7 @@
 				border-bottom-color: #ffffff;
 			}
 
-			.post header a {
-				-moz-transition: -moz-transform 0.2s ease;
-				-webkit-transition: -webkit-transform 0.2s ease;
-				-ms-transition: -ms-transform 0.2s ease;
-				transition: transform 0.2s ease;
-				background-size: cover;
+			.post header a {background-size: cover;
 				background-position: center;
 				background-repeat: no-repeat;
 				position: absolute;
@@ -1336,13 +1335,6 @@
 					background-color: rgba(0, 0, 0, 0.25);
 					background-image: url("../images/overlay.png");
 				}
-
-			.post header:hover a {
-				-moz-transform: scale(1.1);
-				-webkit-transform: scale(1.1);
-				-ms-transform: scale(1.1);
-				transform: scale(1.1);
-			}
 
 			.post header > * {
 				position: relative;
