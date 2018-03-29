@@ -1,1 +1,1 @@
-tjheslin1.github.io/dndrepository/
+https://tjheslin1.github.io/dndrepository/
