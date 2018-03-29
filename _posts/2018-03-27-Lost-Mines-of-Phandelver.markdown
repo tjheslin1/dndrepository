@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Rubeus Tallstag"
-category: character
-image: "root.png"
+title: "Lost Mines of Phandelver"
+category: maps
+image: "lightstonefloor.jpg"
 ---
 Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed
 feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus

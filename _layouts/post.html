@@ -4,12 +4,12 @@ layout: default
 <div id="wrapper">
     <article class="post">
         <header>
-            <a href="{{ site.baseurl }}{{ post.url }}/"><img src="{{ site.baseurl }}/images/root.png" alt=""/></a>
-            <h3>{{ post.title }}</h3>
+            <a href="#"><img src="{{ site.baseurl }}/images/{{ page.image }}" alt=""/></a>
+            <div>
+              <h3>{{ page.category }}</h3>
+              <h2>{{ page.title }}</h2>
+            </div>
         </header>
         {{ content }}
-        <!--<ul class="actions">-->
-        <!--<li><a href="#" class="button">More</a></li>-->
-        <!--</ul>-->
     </article>
 </div>
