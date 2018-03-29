@@ -1486,9 +1486,9 @@
 		-ms-flex-direction: column;
 		flex-direction: column;
 		padding: 8em 0 6em 0;
-		background-image: url("../images/shadowfell.jpg");
+		background-image: url("../images/Gates_of_barovia.jpg");
 		background-size: cover;
-		background-position: center;
+		background-position: bottom;
 		background-attachment: fixed;
 		text-align: center;
 		position: relative;
