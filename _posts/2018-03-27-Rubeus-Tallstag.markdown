@@ -16,7 +16,9 @@ intro: "Entertainer, Half-elf, Barbarian"
 <div id="character-quote">
 <p>"I've played Merlin, Strahd and countless more. So I'm sure I can convincingly play whichever nobody from around here you want me to.</p>
 
-<p>I am a classically trained actor. The theatre mostly. Up on the stage, my arena, I was divine. You should have seen me! A few too many.. incidents.. left the Actor's Guild no choice but to turn they backs on me. I accept that.</p>
+<p>I am a classically trained actor. The theatre mostly. Up on the stage, my arena, I was divine. You should have seen me! A few too many.. incidents.. left the Actor's Guild no choice but to turn their backs on me.</p>
+
+<p>I accept that.</p>
 
 <p>One day I hope to prove myself worthy of their company and place in the Guild. Until then I must learn to control my anger, before it truly ruins me. My rages have not been without their uses however. I have saved myself from more than a few.. predicaments.. in the past."</p>
 </div>
