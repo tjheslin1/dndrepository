@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include mini-header.html %}
+
+<div id="wrapper">
+
+  <div class="page-content">
+      <div class="wrapper">
+          <section class="main items">
+
+    {% for post in site.posts %}
+        {% if post.category == "character" %}
+
+                <article class="item">
+                    <header>
+                        <a href="{{ site.baseurl }}{{ post.url }}"><img src="images/{{ post.image }}" alt=""/></a>
+                        <div>
+                          <h4>{{ post.category }}</h4>
+                          <h3>{{ post.title }}</h3>
+                        </div>
+                    </header>
+                    {{ post.intro }}
+                </article>
+        {% endif %}
+      {% endfor %}
+            </section>
+        </div>
+    </div>
+</div>

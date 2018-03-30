@@ -1656,6 +1656,177 @@
 
 		}
 
+
+
+/* Mini-header */
+
+	#mini-header {
+		background-color: #444;
+		color: rgba(255, 255, 255, 0.75);
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: center;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content: center;
+		-moz-flex-direction: column;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		padding: 4em 0 3em 0;
+		background-image: url("../images/Gates_of_barovia.jpg");
+		background-size: cover;
+		background-position: bottom;
+		background-attachment: fixed;
+		text-align: center;
+		position: relative;
+		cursor: default;
+	}
+
+		#mini-header input, #mini-header select, #mini-header textarea {
+			color: #ffffff;
+		}
+
+		/* #mini-header a {
+			color: inherit;
+		}
+
+			#mini-header a:hover {
+				color: #EF6480 !important;
+			} */
+
+		#mini-header strong, #mini-header b {
+			color: #ffffff;
+		}
+
+		#mini-header h1, #mini-header h2, #mini-header h3, #mini-header h4, #mini-header h5, #mini-header h6 {
+			color: #ffffff;
+		}
+
+		#mini-header blockquote {
+			border-left-color: #ffffff;
+		}
+
+		#mini-header code {
+			background: rgba(255, 255, 255, 0.075);
+			border-color: #ffffff;
+		}
+
+		#mini-header hr {
+			border-bottom-color: #ffffff;
+		}
+
+		#mini-header:before {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(0, 0, 0, 0.25);
+			background-image: url("../images/overlay.png");
+		}
+
+		#mini-header h1 {
+			margin-bottom: 0.5em;
+		}
+
+		#mini-header .inner {
+			position: relative;
+			z-index: 1;
+		}
+
+		#mini-header.alt {
+			height: 5em;
+			min-height: 5em;
+			/* min-height: 75vh; */
+		}
+
+			#mini-header.alt:before {
+				-moz-transition: background-color 3s ease;
+				-webkit-transition: background-color 3s ease;
+				-ms-transition: background-color 3s ease;
+				transition: background-color 3s ease;
+				-moz-transition-delay: 1s;
+				-webkit-transition-delay: 1s;
+				-ms-transition-delay: 1s;
+				transition-delay: 1s;
+			}
+
+			#mini-header.alt h1 {
+				font-size: 2em;
+				padding: 0 0.5em 0.25em 0.5em;
+				border-bottom: solid 2px #ffffff;
+				font-weight: 200;
+				font-family: "Pacifico", cursive;
+				text-transform: none;
+				letter-spacing: 0;
+			}
+
+			#mini-header.alt p {
+				text-transform: uppercase;
+				letter-spacing: 0.325rem;
+				font-weight: 400;
+				font-size: 0.6em;
+				padding: 0 1.25em;
+			}
+
+			#mini-header.alt .inner {
+				-moz-transition: opacity 2s ease;
+				-webkit-transition: opacity 2s ease;
+				-ms-transition: opacity 2s ease;
+				transition: opacity 2s ease;
+				opacity: 1;
+			}
+
+		body.is-loading #mini-header.alt:before {
+			background-color: black;
+		}
+
+		body.is-loading #mini-header.alt .inner {
+			opacity: 0;
+		}
+
+		@media screen and (max-width: 1280px) {
+
+			#mini-header {
+				background-attachment: scroll;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#mini-header {
+				padding: 4em 2em 2em 2em;
+			}
+
+				#mini-header.alt h1 {
+					font-size: 1.5em;
+					padding-left: 0;
+					padding-right: 0;
+				}
+
+				#mini-header.alt p {
+					padding: 0;
+					font-size: 0.4em;
+					letter-spacing: 0.2rem;
+					margin-bottom: 5em;
+				}
+
+				#mini-header.alt .inner {
+					max-width: 20em;
+				}
+
+		}
+
 /* Main */
 
 	#main {
