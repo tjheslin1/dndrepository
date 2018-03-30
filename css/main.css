@@ -1248,6 +1248,31 @@
 
 	/* Post */
 
+	#character-quote {
+		max-width: 75%;
+		align-items: center;
+		justify-content: center;
+	  margin-left: auto;
+	  margin-right: auto;
+		position: relative;
+		background-image: url("../images/parchment-torn.png");
+		background-position: center;
+		background-repeat: no-repeat;
+	 	background-size: calc(100% + 2em) calc(100% + 1em);
+		padding: 1em;
+		/* margin: calc(auto + -1em); */
+	}
+
+	#character-quote p {
+		font-style: italic;
+		font-weight: bold;
+		text-align: left;
+	}
+
+	.padding-below {
+		padding-bottom: 2em;
+	}
+
 	.post {
 		padding: 3em 3em 1em 3em;
 		background-color: #ffffff;

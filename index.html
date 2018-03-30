@@ -12,7 +12,7 @@ layout: default
           <section class="main items">
 
     {% for post in site.posts %}
-    
+
                 <article class="item">
                     <header>
                         <a href="{{ site.baseurl }}{{ post.url }}"><img src="images/{{ post.image }}" alt=""/></a>
@@ -21,10 +21,7 @@ layout: default
                           <h3>{{ post.title }}</h3>
                         </div>
                     </header>
-                    {{ post.content }}
-                    <!--<ul class="actions">-->
-                    <!--<li><a href="#" class="button">More</a></li>-->
-                    <!--</ul>-->
+                    {{ post.intro }}
                 </article>
 
                 {% endfor %}
