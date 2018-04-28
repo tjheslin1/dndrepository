@@ -13,15 +13,10 @@ intro: "Entertainer, Half-elf, Barbarian"
 **Class** Barbarian
 
 <div class="padding-below">
-<div id="character-quote">
-<p>"I've played Merlin, Strahd and countless more. So I'm sure I can convincingly play whichever nobody from around here you want me to.</p>
-
-<p>I am a classically trained actor. The theatre mostly. Up on the stage, my arena, I was divine. You should have seen me! A few too many.. incidents.. left the Actor's Guild no choice but to turn their backs on me.</p>
-
-<p>I accept that.</p>
-
-<p>One day I hope to prove myself worthy of their company and place in the Guild. Until then I must learn to control my anger, before it truly ruins me. My rages have not been without their uses however. I have saved myself from more than a few.. predicaments.. in the past."</p>
-</div>
+<a href="{{ site.baseurl }}/images/Rubeus-letter.png"><img src="{{ site.baseurl }}/images/Rubeus-letter.png" alt="I've played Merlin, Strahd and countless more. So I'm sure I can convincingly play whichever nobody from around here you want me to.
+I am a classically trained actor. The theatre mostly. Up on the stage, my arena, I was divine. You should have seen me! A few too many.. incidents.. left the Actor's Guild no choice but to turn their backs on me.
+I accept that.
+One day I hope to prove myself worthy of their company and place in the Guild. Until then I must learn to control my anger, before it truly ruins me. My rages have not been without their uses however. I have saved myself from more than a few.. predicaments.. in the past."></a>
 </div>
 
 <h1>Abilities</h1>
@@ -34,10 +29,11 @@ He now seeks to understand and control his anger.</p>
 <p>As for all characters his suggested stats come from the standard skill point array: 15, 14, 13, 12, 10, 8.
 They are assigned in the order: <i>Strength</i>, <i>Constitution</i>, <i>Charisma</i>, <i>Wisdom</i>, <i>Dexterity</i>, <i>Intelligence</i>.</p>
 
-<p>His Half-elf heritage gives him +2 <i>Charisma</i> and +1 to two skills I assigned to <i>Strength</i> and <i>Constitution</i>.</p>
+<p>His Half-elf heritage gives him +2 <i>Charisma</i> and +1 to two skills which I assigned to <i>Strength</i> and <i>Constitution</i>.</p>
 
 <p>Whilst a master of learning lines of characters he performs, he otherwise doesn't have the highest <i>Intelligence</i>.
-His anger has led to many altercations leaving him strong and muscular, his highest stat being <i>Strength</i>. Whilst his years of acting allow him to persuade many through his high <i>Charisma</i>. He in particular makes use of his <i>Disguise Kit</i> and <i>By Popular Demand</i>, features of his <i>Entertainer</i> background.</p>
+His anger has led to many altercations leaving him strong and muscular, this is reflected in his highest stat being <i>Strength</i>. 
+Years of acting allow him to persuade many through his high <i>Charisma</i>. In particular Rubeus makes use of his <i>Disguise Kit</i> and <i>By Popular Demand</i> features of his <i>Entertainer</i> background.</p>
 
 <p>After years of living the high-life as a successful thesipan, Rubeus has not yet shunned his ways and continues to wear formal clothing. Smart trousers, a shirt and waistcoat which tends to become undone during his rages. Likewise his swept back hair fuses with sweat and hangs over his face whilst he sees red.</p>
 
