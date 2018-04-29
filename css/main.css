@@ -966,8 +966,9 @@
 	}
 
 	table {
-		margin: 0 0 2em 0;
-		width: 100%;
+		margin: auto;
+		margin-bottom: 2em;
+		width: 70%;
 	}
 
 		table tbody tr {
@@ -1043,6 +1044,17 @@
 
 	table.alt tbody tr td {
 		border-color: #666666;
+	}
+
+	.bullet-list {
+	    text-align: left;
+	    padding-left: 15%;
+	}
+
+	.bullet-list ul {
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
 	}
 
 /* Item */
@@ -1240,7 +1252,7 @@
 
 			.item header {
 				height: 12em;
-				margin: -2em 0 2em -1em;
+				margin: -2em 0 0 -1em;
 				width: calc(100% + 2em);
 			}
 
