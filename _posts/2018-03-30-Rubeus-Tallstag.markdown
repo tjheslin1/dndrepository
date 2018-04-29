@@ -53,7 +53,7 @@ Years of acting allow him to persuade many through his high <i>Charisma</i>. In 
 <p>Rubeus wields a <i>Warhammer</i>. Whilst he has seen comparatively little violence compared to the likes of his fellow adventurers, he has played the role of many soldiers and kings. He is therefore familiar with stage combat. One day he may find himself picking up a <i>Greatsword</i> or other sharp weapon. This would certainly be a step towards a more permanent lifestyle of adventuring.</p>
 
 |   **3rd Level**   | Path of the Beserker |
-|   **4th Level**   | <i>Actor</i> feat. |
+|   **4th Level**   | <i>Actor</i> feat |
 
 <h1>Proficiencies</h1>
 
