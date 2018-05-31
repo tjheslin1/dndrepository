@@ -70,6 +70,7 @@ For Wave Echo Cave I recommend Theatre of the Mind and using the light_stone_flo
         <li><a href="{{ site.baseurl }}/maps/ruins_of_thundertree/thundertree_11.pdf">thundertree_11.pdf</a></li>
         <li><a href="{{ site.baseurl }}/maps/ruins_of_thundertree/thundertree_12.pdf">thundertree_12.pdf</a></li>
     </ul>
+</div>
 
 ## Miscellaneous
 
