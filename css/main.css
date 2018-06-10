@@ -1,6 +1,4 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro:200,400");
-
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -1064,6 +1062,7 @@
 		background-color: #ffffff;
 		border-radius: 4px;
 		text-align: center;
+		font-family: "Copperplate", sans-serif;
 	}
 
         .item p {
@@ -1541,6 +1540,7 @@
 		text-align: center;
 		position: relative;
 		cursor: default;
+		font-family: "Copperplate", sans-serif;
 	}
 
 		#header input, #header select, #header textarea {
@@ -1619,7 +1619,7 @@
 				padding: 0 0.5em 0.25em 0.5em;
 				border-bottom: solid 2px #ffffff;
 				font-weight: 200;
-				font-family: "Pacifico", cursive;
+				font-family: "Copperplate", sans-serif;
 				text-transform: none;
 				letter-spacing: 0;
 			}
@@ -1787,7 +1787,7 @@
 				padding: 0 0.5em 0.25em 0.5em;
 				border-bottom: solid 2px #ffffff;
 				font-weight: 200;
-				font-family: "Pacifico", cursive;
+				font-family: "Copperplate", sans-serif;
 				text-transform: none;
 				letter-spacing: 0;
 			}
