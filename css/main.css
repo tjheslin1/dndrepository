@@ -1392,12 +1392,13 @@
 				z-index: 1;
 			}
 
-			.post header h3 {
+			.post header h2, h3 {
 				margin: 0;
 				-moz-pointer-events: none;
 				-webkit-pointer-events: none;
 				-ms-pointer-events: none;
 				pointer-events: none;
+				font-family: "Copperplate", sans-serif;
 			}
 
 	.posts {
