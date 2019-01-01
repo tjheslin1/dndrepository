@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Curse of Strahd"
+permalink: /curse_of_strahd/
 category: maps
 image: "rictavios-wagon.jpg"
 intro: "Type written letters for the Curse of Strahd adventure"
@@ -19,5 +20,7 @@ These letters also serve a more readable version than the images in the back of 
         <li><a href="{{ site.baseurl }}/cos/letter_from_kolyan_indirovich_2.pdf">letter_from_kolyan_indirovich_2.pdf</a></li>
         <li><a href="{{ site.baseurl }}/cos/tome_of_strahd.pdf">tome_of_strahd.pdf</a></li>
         <li><a href="{{ site.baseurl }}/cos/diary_of_argynvost.pdf">diary_of_argynvost.pdf</a></li>
+        <li><a href="{{ site.baseurl }}/cos/letter_to_durst_family.pdf">letter_to_durst_family.pdf</a></li>
+        <li><a href="{{ site.baseurl }}/cos/van_richtens_journal.pdf">van_richtens_journal.pdf</a></li>
     </ul>
 </div>

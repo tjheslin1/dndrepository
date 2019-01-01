@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lost Mines of Phandelver"
+permalink: /lost_mines_of_phandelver/
 category: maps
 image: "lightstonefloor.jpg"
 intro: "Maps for the Lost Mines of Phandelver adventure"

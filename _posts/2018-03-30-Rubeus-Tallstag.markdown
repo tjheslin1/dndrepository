@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rubeus Tallstag"
+permalink: /rubeus_tallstag/
 category: character
 image: "root.png"
 character-sheet: "Rubeus-Tallstag.pdf"
