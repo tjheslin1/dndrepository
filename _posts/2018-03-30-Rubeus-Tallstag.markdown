@@ -19,6 +19,11 @@ intro: "Entertainer, Half-elf, Barbarian"
 |   **Flaws**               | A scandal prevents me from ever going home again. That kind of trouble seems to follow me around. |
 
 <div class="padding-below">
+<a href="{{ site.baseurl }}/images/Rubeus_Tallstag.png"><img src="{{ site.baseurl }}/images/Rubeus_Tallstag.png"></a>
+<p>Character art by BazferdArt</p>
+</div>
+
+<div class="padding-below">
 <a href="{{ site.baseurl }}/images/Rubeus-letter.png"><img src="{{ site.baseurl }}/images/Rubeus-letter.png" alt="I've played Merlin, Strahd and countless more. So I'm sure I can convincingly play whichever nobody from around here you want me to!
 I am a classically trained actor. The theatre mostly. Up on the stage, my arena, I was divine. You should have seen me! A few too many.. incidents.. left the Actor's Guild no choice but to turn their backs on me.
 I accept that.
