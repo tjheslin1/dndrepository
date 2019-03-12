@@ -50,6 +50,13 @@
 
 /* Basic */
 
+    .not-active {
+      pointer-events: none;
+      cursor: default;
+      text-decoration: none;
+      color: black;
+    }
+
 	@-ms-viewport {
 		width: device-width;
 	}

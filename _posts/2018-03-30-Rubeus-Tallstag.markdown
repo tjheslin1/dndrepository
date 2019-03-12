@@ -20,7 +20,7 @@ intro: "Entertainer, Half-elf, Barbarian"
 
 <div class="padding-below">
 <a href="{{ site.baseurl }}/images/Rubeus_Tallstag.png"><img src="{{ site.baseurl }}/images/Rubeus_Tallstag.png"></a>
-<p>Character art by BazferdArt</p>
+<p>Character art by Bazferd Art</p>
 </div>
 
 <div class="padding-below">
