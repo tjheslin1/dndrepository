@@ -3,8 +3,8 @@ layout: post
 title: "Weston Herb"
 permalink: /weston_herb/
 category: character
-image: "root.png"
-character-sheet: "Rubeus-Tallstag.pdf"
+image: "Weston_Herb_crop.png"
+character-sheet: "Weston-Herb.pdf"
 intro: "Doctor, Human, Necromancer"
 ---
 **Background** Sage
@@ -13,15 +13,22 @@ intro: "Doctor, Human, Necromancer"
 
 **Class** Wizard - School of Necromancy
 
-|   **Personality Traits**  | I have read scores of books around to learn all I can in Medicine. To push my abilities further I must enhance my medical practice with the Arcane, to prolong the lives of myself and anyone willing. |
-|   **Ideals**              | Knowledge. The path to power and self-improvement is through knowledge. (Neutral). |
+**Alignment** Chaotic Good
+
+|   **Personality Traits**  | I have read scores of books to learn all I can in Medicine. To push my abilities further I must enhance my medical practice with the Arcane, to prolong the lives of myself and anyone willing. |
+|   **Ideals**              | Knowledge. The path to power and self-improvement is through knowledge. (Neutral). If I can extend my mortal life I can dedicate centuries more to aiding the sick and alieving the stresses of all people by putting the dead to work for the living. |
 |   **Bonds**               | I have an ancient text that holds terrible secrets that must not fall into the wrong hands. |
 |   **Flaws**               | I am easily distracted by the promise of information. Unlocking an ancient mystery is worth the price of altering civilization as we know it. |
 
+<div class="padding-below">
+<a href="{{ site.baseurl }}/images/Weston_Herb.png"><img src="{{ site.baseurl }}/images/Weston_Herb.png"></a>
+<p>Character art by Bazferd Art</p>
+</div>
+
 <h1>Motivation</h1>
 
-Weston spent most of his life as a Doctor, known for his experimental surgeries which sometimes justified their means, but often left his patients no better off.
-Despite having no desire to stop his practice, Weston was politely asked to start his retirement a few years early.
+<p>Weston spent most of his life as a Doctor, known for his experimental surgeries which sometimes justified their means, but often left his patients no better off.
+Despite having no desire to stop his practice, Weston was politely asked to start his retirement a few years early.</p>
 
 <h1>Abilities</h1>
 
@@ -33,64 +40,54 @@ Despite having no desire to stop his practice, Weston was politely asked to star
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 9 (-1) | 13 (+1) | 14 (+2) | 16 (+3) | 15 (+2) | 11 (0) |
 
-<p>As for all characters his suggested stats come from the standard skill point array: 9, 13, 14, 16, 15, 11.
-They are assigned in the order: <i>Intelligence</i>, <i>Wisdom</i>, <i>Constitution</i>, <i>Dexterity</i>, <i>Charisma</i>, <i>Strength</i>.
+<p>As for all characters his suggested stats come from the standard skill point array: 15, 14, 13, 12, 10, 8.
+They are assigned in the order: <i>Intelligence</i>, <i>Wisdom</i>, <i>Constitution</i>, <i>Dexterity</i>, <i>Charisma</i>, <i>Strength</i>.</p>
 
-<p>His Human heritage gives him +1 to all stats (already included).
+<p>His Human heritage gives him +1 to all stats (already included).</p>
 
-<p>High highest stat is <i>Intelligence</i> having obsessively dedicated decades to study and memorisation.
+<p>Weston's highest stat is <i>Intelligence</i>, having obsessively dedicated decades to study and memorisation.
+His lowest stat is <i>Strength</i>, this reflects his missing arm as seen in the artwork.
+Players can choose to start without his right arm, giving him <i>Disadvantage</i> on all <i>Strength</i> checks and saving throws.
+If opting to have Weston's right arm lost, one explanation is that he lost it in the <i>Tomb of the Nine Gods</i> in Chult, whilst investigating the secrets of preserving life and the animation of the dead.</p>
 
-// TODO Missing arm 
+<p>Taking the <i>Healer</i> feat at level 4 or at level 1 by changing his race to Human (Variant), is an excellent way of playing Weston as a surprisingly
+effective healer on the battlefield whilst his animated undead attack on his behalf.</p>
 
-Taking the <i>Healer</i> feat at level 4 or at level 1 by changing his race to Human (Variant), is an excellent way of playing Weston as a surprisingly effective healer whilst his animated undead attack for him.
+Later spells like <i>Catnap</i> and <i>Life Transference</i> tie really well into his role as a Doctor.</p>
 
 <h1>Class</h1>
 
-<p>Weston's obsessive nature and aptitude for learning make him an effective <i>Wizard</i>, however
-Players may choose to refrain from raging, given Rubeus' mission to control his anger. 
-Rubeus however may come to understand the value of letting his passion flow from time to time in a tense situation.</p>
-
-<p>Rubeus wields a <i>Greataxe</i> and swings so wildly given his inexperience with combat. Whilst he has seen comparatively little violence compared to the likes of his fellow adventurers, 
-he has played the role of many soldiers and kings. He is therefore familiar with stage combat. 
-One day he may find himself picking up a <i>Greataxe</i> or other sharp weapon. 
-This would certainly be a step towards a more permanent lifestyle of adventuring.</p>
+<p>Weston's obsessive nature and aptitude for learning make him an effective <i>Wizard</i>,
+however he's unlikely to use <i>Evocation</i> spells like <i>Fireball</i>,
+preferring more subtle spells to contribute to a fight like <i>Blindness/Deafness</i>.</p>
 
 <h2>Iconic choices</h2>
 
-|   **3rd Level**   | Path of the Beserker |
-|   **4th Level**   | <i>Actor</i> feat |
-
-<i><i/>
+|   **2nd Level**   | School of Necromancy |
+|   **4th Level**   | <i>Healer</i> feat |
+|   **5th Level**   | Spells: Animate Dead, Catnap |
 
 <h1>Proficiencies</h1>
 
-From the <i>Entertainer</i> background, <i>Half-elf</i> race and <i>Barbarian</i> class I have chosen the following proficiencies:
+From the <i>Sage</i> background, <i>Human</i> race and <i>Wizard</i> class I have chosen the following proficiencies:
 
 <div class="bullet-list">
 <ul>
-    <li>Acrobatics</li>
-    <li>Athletics</li>
-    <li>Constitution Saving Throws</li>
-    <li>Deception</li>
-    <li>Disguise Kit</li>
-    <li>Light Armor</li>
-    <li>Martial Weapons</li>
-    <li>Medium Armor</li>
-    <li>Pan Flute</li>
-    <li>Perception</li>
-    <li>Performance</li>
-    <li>Persuasion</li>
-    <li>Shields</li>
+    <li>Arcana</li>
+    <li>History</li>
+    <li>Investigation</li>
+    <li>Medicine</li>
+    <li>Intelligence Saving Throws</li>
+    <li>Wisdom Saving Throws</li>
     <li>Simple Weapons</li>
-    <li>Strength Saving Throws</li>
 </ul>
 </div>
 
 <div class="padding-below">
-<h5><i>Please feel free to use Rubeus in your campaign as a playable character or NPC, changing any characteristics to better suit your adventure amd playstyle.</i></h5>
+<h5><i>Please feel free to use Weston in your campaign as a playable character or NPC, changing any characteristics to better suit your adventure amd playstyle.</i></h5>
 </div>
 
 <figure>
-<figcaption>Click here for Rubeus' character sheet</figcaption>
+<figcaption>Click here for Weston's character sheet</figcaption>
 <a href="{{ site.baseurl }}/character-sheets/{{ page.character-sheet }}"><img src="{{ site.baseurl }}/images/character-sheet-logo.jpg" alt=""></a>
 </figure>
