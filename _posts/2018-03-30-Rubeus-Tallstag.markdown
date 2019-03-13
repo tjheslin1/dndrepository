@@ -13,6 +13,8 @@ intro: "Entertainer, Half-elf, Barbarian"
 
 **Class** Barbarian
 
+**Alignment** Chaotic Good
+
 |   **Personality Traits**  | I know a story relevant to almost every situation. I'll take any opportunity to tell of my past roles in plays and shows. |
 |   **Ideals**              | This world is a test of my resolve. |
 |   **Bonds**               | I would do anything for my fellow actors, I've come to the same opinion of my fellow adventurers. |
@@ -20,7 +22,7 @@ intro: "Entertainer, Half-elf, Barbarian"
 
 <div class="padding-below">
 <a href="{{ site.baseurl }}/images/Rubeus_Tallstag.png"><img src="{{ site.baseurl }}/images/Rubeus_Tallstag.png"></a>
-<p>Character art by BazferdArt</p>
+<p>Character art by Bazferd Art</p>
 </div>
 
 <div class="padding-below">
@@ -76,10 +78,8 @@ This would certainly be a step towards a more permanent lifestyle of adventuring
 
 <h2>Iconic choices</h2>
 
-|   **3rd Level**   | Path of the Beserker |
+|   **3rd Level**   | Path of the Berserker |
 |   **4th Level**   | <i>Actor</i> feat |
-
-<i><i/>
 
 <h1>Proficiencies</h1>
 
@@ -89,19 +89,19 @@ From the <i>Entertainer</i> background, <i>Half-elf</i> race and <i>Barbarian</i
 <ul>
     <li>Acrobatics</li>
     <li>Athletics</li>
-    <li>Constitution Saving Throws</li>
     <li>Deception</li>
-    <li>Disguise Kit</li>
-    <li>Light Armor</li>
-    <li>Martial Weapons</li>
-    <li>Medium Armor</li>
-    <li>Pan Flute</li>
     <li>Perception</li>
     <li>Performance</li>
     <li>Persuasion</li>
-    <li>Shields</li>
-    <li>Simple Weapons</li>
     <li>Strength Saving Throws</li>
+    <li>Constitution Saving Throws</li>
+    <li>Martial Weapons</li>
+    <li>Simple Weapons</li>
+    <li>Medium Armor</li>
+    <li>Light Armor</li>
+    <li>Shields</li>
+    <li>Disguise Kit</li>
+    <li>Pan Flute</li>
 </ul>
 </div>
 
