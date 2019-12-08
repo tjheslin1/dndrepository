@@ -53,7 +53,7 @@ If opting to have Weston's right arm lost, one explanation is that he lost it in
 <p>Taking the <i>Healer</i> feat at level 4 or at level 1 by changing his race to Human (Variant), is an excellent way of playing Weston as a surprisingly
 effective healer on the battlefield whilst his animated undead attack on his behalf.</p>
 
-Later spells like <i>Catnap</i> and <i>Life Transference</i> tie really well into his role as a Doctor.</p>
+<p>Later spells like <i>Catnap</i> and <i>Life Transference</i> tie really well into his role as a Doctor.</p>
 
 <h1>Class</h1>
 
